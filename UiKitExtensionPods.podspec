@@ -30,6 +30,10 @@ TODO: UiKitExtensionPods is an awasome pod aimed to make your life easier around
 
   s.source_files = 'Source/**/*.swift'
   s.ios.deployment_target = '12.0'
+  s.swift_version = '4.2'
+  s.platforms = {
+      "ios": "12.0"
+  }
   
   # s.resource_bundles = {
   #   'UiKitExtensionPods' => ['UiKitExtensionPods/Assets/*.png']
