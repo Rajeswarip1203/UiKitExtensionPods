@@ -7,12 +7,21 @@
 //
 
 import UIKit
+import Foundation
+import UiKitExtensionPods
 
 class ViewController: UIViewController {
+    let testLable = UILabel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        testLable.text = "Welcome to UiKitExtension"
+        testLable.backgroundColor = UIColor.systemBlue
+        testLable.textColor = UIColor.black
+        self.view.addSubview(testLable)
+        testLable.pinCenterX(to: self.view)
+        testLable.pinCenterY(to: self.view)
+        testLable.pinToSuperviewTop(constant: 400)
     }
 
     override func didReceiveMemoryWarning() {
