@@ -1,0 +1,22 @@
+{
+  "name": "UiKitExtensionPods",
+  "version": "0.1.0",
+  "summary": "A short description of UiKitExtensionPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Rajeswarip1203/UiKitExtensionPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rajeswarip1203": "rajeswari.p@news.co.uk"
+  },
+  "source": {
+    "git": "https://github.com/Rajeswarip1203/UiKitExtensionPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UiKitExtensionPods/Classes/**/*"
+}

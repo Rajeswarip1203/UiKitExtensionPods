@@ -1,0 +1,6 @@
+framework module Pods_UiKitExtensionPods_Tests {
+  umbrella header "Pods-UiKitExtensionPods_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
