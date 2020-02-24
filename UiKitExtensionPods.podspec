@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'UiKitExtensionPods'
   s.version          = '0.2.0'
-  s.summary          = 'UiKitExtension for setting up the COnstraints.'
+  s.summary          = 'UiKitExtension for setting up the Constraints.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,9 +28,8 @@ TODO: UiKitExtensionPods is an awasome pod aimed to make your life easier around
   s.source           = { :git => 'https://github.com/Rajeswarip1203/UiKitExtensionPods.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.source_files = 'Source/UiKitExtensionPods/Classes/**/*'
+  s.source_files = 'UiKitExtensionPods/Classes/**/*'
   s.ios.deployment_target = '12.0'
-  s.swift_version = "4.2"
   
   # s.resource_bundles = {
   #   'UiKitExtensionPods' => ['UiKitExtensionPods/Assets/*.png']
