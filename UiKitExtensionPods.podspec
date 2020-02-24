@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UiKitExtensionPods'
-  s.version          = '0.1.2'
+  s.version          = '0.3.0'
   s.summary          = 'UiKitExtension for setting up the Constraints.'
 
 # This description is used to generate tags and improve search results.
