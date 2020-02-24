@@ -28,7 +28,7 @@ TODO: UiKitExtensionPods is an awasome pod aimed to make your life easier around
   s.source           = { :git => 'https://github.com/Rajeswarip1203/UiKitExtensionPods.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.source_files = 'UiKitExtensionPods/Classes/**/*'
+  s.source_files = 'UiKitExtensionPods/Source/Classes/**/*'
   s.ios.deployment_target = '12.0'
   
   # s.resource_bundles = {
