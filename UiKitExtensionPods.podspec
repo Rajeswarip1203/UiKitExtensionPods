@@ -24,7 +24,7 @@ TODO: UiKitExtensionPods is an awasome pod aimed to make your life easier around
   s.homepage         = 'https://github.com/Rajeswarip1203/UiKitExtensionPods'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Rajeswarip1203' => 'rajeswari.p@news.co.uk' }
+  s.author           = { 'Rajeswarip1203' => 'rajeswarim.ios@gmail.com' }
   s.source           = { :git => 'https://github.com/Rajeswarip1203/UiKitExtensionPods.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
